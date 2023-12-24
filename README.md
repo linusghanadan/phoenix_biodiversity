@@ -9,7 +9,7 @@ The purpose of this analysis is to better understand and visualize biodiversity 
 - Calculate percent of area with BII>0.75 in 2017 and 2020
 - Visualize 2020 biodiversity and changes from 2017
 
-## Dataset description
+## Dataset descriptions
 - The primary dataset used in this analysis estimates terrestrial Biodiversity Intactness as a 100-meter gridded maps for years 2017 to 2020. The data contained in the dataset comes from Impact Observatory and Vizzuality, and they generated the data using a database of spatially referenced observations of biodiversity across 32,000 sites and over 750 studies. The data was accessed from the Microsoft Planetary Computer (MPC) catalog
 - A dataset from the U.S. Census Bureau was used to clip biodiversity raster.
 
