@@ -1,4 +1,7 @@
 # Tracking Biodiversity Changes in Phoenix
+
+## [Link to Blog (includes Python code, code output, and written analysis)](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
+
 ## Purpose
 The purpose of this analysis is to better understand and visualize biodiversity in Phoenix and highlight areas where biodiversity is declining. Specifically, the final map will show a map of Phoenix displayed on grid-cells colored based on the area's 2020 Biodiversity Intactness Index (BII), which is a score from 0 to 1. In addition, areas where BII declined from greater than 0.75 in 2017 to less than 0.75 in 2020 will be highlighted in a seperate color.
 
