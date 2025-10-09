@@ -1,4 +1,4 @@
-## Tracking Biodiversity Changes in Phoenix
+## Geospatial Analysis of Biodiversity Loss in Phoenix
 
 ### [Link to Blog (includes Python code, code output, and written analysis)](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
 
