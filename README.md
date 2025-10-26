@@ -1,7 +1,10 @@
-## Geospatial Analysis of Biodiversity Loss in Phoenix
+## Geospatial Analysis of Biodiversity Loss
 
-### Purpose
-The purpose of this analysis is to better understand and visualize biodiversity in Phoenix and highlight areas where biodiversity is declining. Specifically, the final map will show a map of Phoenix displayed on grid-cells colored based on the area's 2020 Biodiversity Intactness Index (BII), which is a score from 0 to 1. In addition, areas where BII declined from greater than 0.75 in 2017 to less than 0.75 in 2020 will be highlighted in a seperate color.
+### Context
+This project was completed for my Geospatial Analysis & Remote Sensing class, taken as part of my Master's program at UC Santa Barbara. Provided with data and questions, I carried out this analysis using appropriate geospatial analysis techniques.
+
+### Summary of Analysis
+Fetched grid-cell data on Biodiversity Intactness Index (BII) scores from Microsoft data catalog. Clipped rasters of 2017 and 2020 BII scores with polygon shapefile of Phoenix subdivision. Created heatmap of 2020 BII scores in Phoenix, highlighting areas that had decreased below 0.75 threshold since 2017 study.
 
 ### Highlights of Analysis
 - Add basemap with Contextily
